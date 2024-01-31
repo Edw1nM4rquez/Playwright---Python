@@ -1,7 +1,19 @@
 # Playwright---Python
 Testing the use of Playwright with python.
 
-# Open codegen 
+# Install the Pytest plugin:
+
+```
+pip install pytest-playwright
+```
+
+# Install the required browsers:
+
+```
+playwright install
+```
+
+# Executing test 
 
 Run test 
 
@@ -16,3 +28,5 @@ You can open the browser and with this tool select the element to obtain its loc
 ```
 playwright codegen https://example.com
 ```
+
+* More informacion in : https://playwright.dev/python/docs/codegen-intro#running-codegen
