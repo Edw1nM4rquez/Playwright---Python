@@ -5,6 +5,7 @@ Indications:
 - It is necessary that the test you create initially have test_name.py written inside the test file.
   
 - The file name conftest.py is demonized for the test environment configuration. If you change the file name, Playwright will not be able to recognize this configuration file.
+
 Testing the use of Playwright with python.
 
 ```
