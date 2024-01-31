@@ -29,7 +29,7 @@ playwright install
 Run test 
 
 ```
-pytest test_name.py
+pytest test_main.py
 ```
 
 # Open codegen 
